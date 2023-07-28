@@ -1,3 +1,8 @@
+---
+layout: page
+title: Organizers
+permalink: /organizers/
+---
 # Jonathan Brachthäuser
 
 Jonathan Brachthäuser is Junior Professor at the University of Tübingen, Germany. 
