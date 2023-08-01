@@ -8,3 +8,7 @@ permalink: /schedule/
 
 
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
