@@ -13,9 +13,10 @@ We expect to be following Shonan's standard [template for a 5-day meeting](https
 | 10:30-11:00 |                     | break     | break     | break     | break     | break     |
 | 11:00-12:00 |                     | technical | technical | technical | technical | technical |
 | 12:00-13:30 |                     | lunch     | lunch     | lunch     | lunch     | lunch     |
-| 13:30-15:30 | check-in from 15:00 | technical | technical | excursion | technical |
+| 13:30-15:30 | check-in <br> (15:00-)   | technical | technical | excursion | technical | farewell  |
 | 15:30-16:00 | check-in            | break     | break     | excursion | break     |
 | 16:00-18:00 | check-in            | technical | technical | excursion | technical |
 | 18:00-19:30 | reception           | dinner    | dinner    | banquet   | dinner    |
-| 19:30-21:00 | reception           |           |           | banquet   |           
+| 19:30-21:00 | reception           | free      | free      | banquet   | free      |
+| 21:00-      | free                | free      | free      | free      | free      |          
 
