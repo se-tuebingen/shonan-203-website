@@ -1,5 +1,6 @@
 ---
 layout: home
+title: Purpose
 ---
 ## Description of the Meeting
 
