@@ -20,3 +20,5 @@ We expect to be following Shonan's standard [template for a 5-day meeting](https
 | 19:30-21:00 | reception           | free      | free      | banquet   | free      |
 | 21:00-      | free                | free      | free      | free      | free      |          
 
+Planning precisely what happens in each of the technical sessions will be one of the first activities on Monday.
+
