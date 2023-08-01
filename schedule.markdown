@@ -14,6 +14,7 @@ permalink: /schedule/
 | 09:00-10:30 |
 | 10:30-11:00 | 
 | 11:00-12:00 |
+| 12:00-13:30 | | lunch | lunch | lunch | lunch | lunch |
 | 13:30-15:30 | check-in from 15:00 |
 | 15:30-16:00 |
 | 16:00-18:00 |
