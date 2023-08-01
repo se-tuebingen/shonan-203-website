@@ -1,6 +1,5 @@
 ---
 layout: home
-title:  "Meeting overview"
 ---
 # Description of the Meeting
 
