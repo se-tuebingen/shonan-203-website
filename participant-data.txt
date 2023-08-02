@@ -1,0 +1,27 @@
+﻿- [Jonathan Brachthäuser](https://se.informatik.uni-tuebingen.de/team/brachthaeuser/), University of Tübingen
+- [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/), Tokyo Institute of Technology
+- [Jeremy Gibbons](https://www.cs.ox.ac.uk/people/jeremy.gibbons/), University of Oxford
+- [Taro Sekiyama](https://researchmap.jp/t-sekiym/?lang=english), National Institute of Informatics
+- [Kenichi Asai](https://pllab.is.ocha.ac.jp/~asai/), Ochanomizu University
+- [Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/), The University of Edinburgh
+- [Eli Bingham](https://mltrain.cc/speakers/eli-bingham/), Basis & Broad Institute
+- [Jeremy Yallop](https://www.cl.cam.ac.uk/~jdy22/), University of Cambridge
+- [Ningning Xie](https://xnning.github.io/), University of Toronto
+- [Nicolas Wu](https://www.imperial.ac.uk/people/n.wu), Imperial College of London
+- [William Bowman](https://www.williamjbowman.com/), University of British Columbia
+- [Philipp Schuster](https://ps.informatik.uni-tuebingen.de/team/schuster/), University of Tübingen
+- [Dariusz Biernacki](https://ii.uni.wroc.pl/~dabi/), University of Wrocław
+- [Yizhou Zhang](https://cs.uwaterloo.ca/~yizhou/), University of Waterloo
+- [Dominic Orchard](https://www.kent.ac.uk/computing/people/3074/orchard-dominic), University of Kent/University of Cambridge
+- [Amr Sabry](https://legacy.cs.indiana.edu/~sabry/), Indiana University
+- [Cameron Moy](https://camoy.name/), Northeastern University
+- [Shin-ya Katsumata](http://group-mmm.org/~s-katsumata/index-e.html), National Institute of Informatics
+- [Tachio  Terauchi](http://www.f.waseda.jp/terauchi/), Waseda University
+- [Tom Schrijvers](https://people.cs.kuleuven.be/~tom.schrijvers/), University of Leuven
+- [Yukiyoshi Kameyama](http://www.cs.tsukuba.ac.jp/~kam/), Univeristy of Tsukuba
+- [Andreas  Rossberg](https://people.mpi-sws.org/~rossberg)
+- [Dylan McDermott](https://dylanm.org/), Reykjavik University
+- [Paul Downen](https://www.pauldownen.com/), University of Massachusetts
+- [Kazuki Ikemori](https://kadu-v.github.io/kikemori/), Tokyo Institute of Technology
+- [KC Sivaramakrishnan](https://kcsrk.info/), Indian Institute of Technology Madras/Tarides
+- [Paulette Koronkevich](https://koronkevi.ch/), University of British Columbia
