@@ -11,8 +11,8 @@ permalink: /about/
     A bare-bones participants' webpage for
     <a href="https://shonan.nii.ac.jp/seminars/203/">
       <div style="height:100%;width:100%">
-        NII Shonan Meeting 203 on Effect Handlers and General Purpose Languages
-      </div>.
+        NII Shonan Meeting 203 on Effect Handlers and General Purpose Languages.
+      </div>
     </a>
     </td>
   </tr>
