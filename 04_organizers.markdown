@@ -11,7 +11,7 @@ permalink: /organizers/
 He is one of the authors of the <a href="https://effekt-lang.org">Effekt language</a> a language with effects and handlers, and involved in joint efforts to bring effect safety to the Scala language.
 His research revolves around alternative, lightweight effect systems as well as efficient implementation techniques for effect handlers—a mechanism to structure advanced control-flow patterns.
 </td>
-<td style="border:none;"><img src="https://se.informatik.uni-tuebingen.de/team/brachthaeuser/small.jpg" alt="Photo of Jonathan" width="25%"></td>
+<td style="border:none;"><img src="jb.jpg" alt="Photo of Jonathan" width="1000"></td>
 </tr>
 </table>
 
