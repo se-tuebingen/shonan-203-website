@@ -7,11 +7,11 @@ permalink: /organizers/
 <table style="border:none;">
 <tr style="border:none;">
 <td style="border:none;">
-[**Jonathan Brachthäuser**](https://se.informatik.uni-tuebingen.de/team/brachthaeuser/) is Junior Professor at the University of Tübingen, Germany. 
-He is one of the authors of the [Effekt language](https://effekt-lang.org) a language with effects and handlers, and involved in joint efforts to bring effect safety to the Scala language.
-His research revolves around alternative, lightweight effect systems as well as efficient implementation techniques for effect handlers---a mechanism to structure advanced control-flow patterns.
+<a href="https://se.informatik.uni-tuebingen.de/team/brachthaeuser/"><strong>Jonathan Brachthäuser</strong></a> is Junior Professor at the University of Tübingen, Germany. 
+He is one of the authors of the <a href="https://effekt-lang.org">Effekt language</a> a language with effects and handlers, and involved in joint efforts to bring effect safety to the Scala language.
+His research revolves around alternative, lightweight effect systems as well as efficient implementation techniques for effect handlers—a mechanism to structure advanced control-flow patterns.
 </td>
-<td style="border:none;"><img src="https://se.informatik.uni-tuebingen.de/team/brachthaeuser/small.jpg" alt="Photo of Jonathan" width="200"></td>
+<td style="border:none;"><img src="https://se.informatik.uni-tuebingen.de/team/brachthaeuser/small.jpg" alt="Photo of Jonathan" width="25%"></td>
 </tr>
 </table>
 
