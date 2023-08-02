@@ -17,3 +17,10 @@ permalink: /about/
     </td>
   </tr>
 </table>
+
+## Contact emails
+
+-- [Meeting organizers](mailto:jonathan.brachthaeuser@uni-tuebingen.de,cong@c.titech.ac.jp,jeremy.gibbons@cs.ox.ac.uk)
+-- [NII Shonan administration](shonan@nii.ac.jp)
+-- [Venue contact](mailto:shonan-meeting2@shonan-village.co.jp)
+-- [All participants](shonan_meeting_203@nii.ac.jp)
