@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Shonan 203: Effect Handlers and General-Purpose Languages"
+title: "Shonan 203: XXX Effect Handlers and General-Purpose Languages"
 email: "jonathan.brachthaeuser@uni-tuebingen.de, cong@c.titech.ac.jp, jeremy.gibbons@cs.ox.ac.uk"
 description: >- # this means to ignore newlines until "baseurl:"
   Website for the meeting.
