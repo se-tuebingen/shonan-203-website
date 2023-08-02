@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Photos
+order: 6
 permalink: /photos/
 ---
 
