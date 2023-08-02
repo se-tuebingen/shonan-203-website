@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Organizers
-order: 4
 permalink: /organizers/
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Schedule
-order: 3
 permalink: /schedule/
 ---
 

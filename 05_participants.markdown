@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Participants
-order: 5
 permalink: /participants/
 ---
 
