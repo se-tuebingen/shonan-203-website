@@ -4,7 +4,7 @@ title: Photos
 permalink: /photos/
 ---
 
-Please send us your photos!
+Please send us your photos taken during the meeting!
 
 
 
