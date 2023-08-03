@@ -5,26 +5,29 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
-        <p class="feed-subscribe">
+
+        <!-- <p class="feed-subscribe">
           <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
             <svg class="svg-icon orange">
               <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
             </svg><span>Subscribe</span>
           </a>
-        </p>
+        </p> -->
+
         <ul class="contact-list">
+            <li class="p-name">{{ site.title | escape }}</li>
           {% for email in site.emails -%}
             <li><a class="u-email" href="mailto:{{ email }}">{{ email }}</a></li>
           {%- endfor %}
         </ul>
       </div>
       <div class="footer-col">
-        <p>{{ site.description }}</p>
+        <p>{{ site.description | escape }}</p>
       </div>
     </div>
 
     <div class="social-links">
-      {%- include social.html -%}
+      <img src="https://shonan.nii.ac.jp/_libs/images/common/shonan_meeting_logo.svg" alt="NII Shonan logo" width="200" />
     </div>
 
   </div>
