@@ -23,6 +23,6 @@ The venue website has information about [accommodation](https://www.shonan-villa
 
 ## Travel
 
-The venue provides [detailed travel information](https://www.shonan-village.co.jp/eng/access/) for reaching the venue from Narita and Haneda airports, via Japan's excellent rail network and then a short [local bus ride](https://hnd-bus.com/line/guide/board.html). Shonan Village Center is at the last stop on bus route 16, "Shonan Kokusaimura Center mae". You will need cash (coins or a Y1000 note) or a SUICA/PASMO card for the bus fare.
+The venue provides [detailed travel information](https://www.shonan-village.co.jp/eng/access/) for reaching the venue from Narita and Haneda airports, via Japan's excellent rail network and then a short [local bus ride](https://hnd-bus.com/line/guide/board.html). Shonan Village Center is at the last stop on bus route 16, "Shonan Kokusaimura Center mae". You will need cash (coins or a &yen;1000 note) or a SUICA/PASMO card for the bus fare.
 
-Currently, all visitors to Japan must register **in advance** for immigration clearance and customs, via [Visit Japan Web](https://vjw-lp.digital.go.jp/en/). You can do this up to two weeks before arrival, and need to complete it at least **six hours before landing** in Japan. NII will send more information.
+Currently, all visitors to Japan must register **in advance** for immigration clearance and customs, via [Visit Japan Web](https://vjw-lp.digital.go.jp/en/). You can do this up to two weeks before arrival, and need to complete it at least **six hours before landing** in Japan. NII will send more information in due course.
