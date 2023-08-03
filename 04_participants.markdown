@@ -4,7 +4,11 @@ title: Participants
 permalink: /participants/
 ---
 
+- [Jonathan Brachthäuser](https://se.informatik.uni-tuebingen.de/team/brachthaeuser/), University of Tübingen
+- [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/), Tokyo Institute of Technology
 - [Jeremy Gibbons](https://www.cs.ox.ac.uk/jeremy.gibbons/), University of Oxford
+
+(Add others on response to second survey.)
 
 ## Organizers
 
