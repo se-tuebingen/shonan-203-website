@@ -10,7 +10,6 @@
 - [Nicolas Wu](https://www.imperial.ac.uk/people/n.wu), Imperial College of London
 - [William Bowman](https://www.williamjbowman.com/), University of British Columbia
 - [Philipp Schuster](https://ps.informatik.uni-tuebingen.de/team/schuster/), University of Tübingen
-- [Dariusz Biernacki](https://ii.uni.wroc.pl/~dabi/), University of Wrocław
 - [Yizhou Zhang](https://cs.uwaterloo.ca/~yizhou/), University of Waterloo
 - [Dominic Orchard](https://www.kent.ac.uk/computing/people/3074/orchard-dominic), University of Kent/University of Cambridge
 - [Amr Sabry](https://legacy.cs.indiana.edu/~sabry/), Indiana University

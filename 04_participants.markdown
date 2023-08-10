@@ -7,8 +7,29 @@ permalink: /participants/
 - [Jonathan Brachthäuser](https://se.informatik.uni-tuebingen.de/team/brachthaeuser/), University of Tübingen
 - [Youyou Cong](https://prg.is.titech.ac.jp/people/cong/), Tokyo Institute of Technology
 - [Jeremy Gibbons](https://www.cs.ox.ac.uk/jeremy.gibbons/), University of Oxford
-
-(Add others on response to second survey.)
+- [Kenichi Asai](https://pllab.is.ocha.ac.jp/~asai/), Ochanomizu University
+- [Eli Bingham](https://mltrain.cc/speakers/eli-bingham/), Basis & Broad Institute
+- [William Bowman](https://www.williamjbowman.com/), University of British Columbia
+- [Paul Downen](https://www.pauldownen.com/), University of Massachusetts
+- [Kazuki Ikemori](https://kadu-v.github.io/kikemori/), Tokyo Institute of Technology
+- [Yukiyoshi Kameyama](http://www.cs.tsukuba.ac.jp/~kam/), Univeristy of Tsukuba
+- [Shin-ya Katsumata](http://group-mmm.org/~s-katsumata/index-e.html), National Institute of Informatics
+- [Paulette Koronkevich](https://koronkevi.ch/), University of British Columbia
+- [Sam Lindley](https://homepages.inf.ed.ac.uk/slindley/), The University of Edinburgh
+- [Dylan McDermott](https://dylanm.org/), Reykjavik University
+- [Cameron Moy](https://camoy.name/), Northeastern University
+- [Dominic Orchard](https://www.kent.ac.uk/computing/people/3074/orchard-dominic), University of Kent/University of Cambridge
+- [Andreas  Rossberg](https://people.mpi-sws.org/~rossberg)
+- [Amr Sabry](https://legacy.cs.indiana.edu/~sabry/), Indiana University
+- [Tom Schrijvers](https://people.cs.kuleuven.be/~tom.schrijvers/), University of Leuven
+- [Philipp Schuster](https://ps.informatik.uni-tuebingen.de/team/schuster/), University of Tübingen
+- [Taro Sekiyama](https://researchmap.jp/t-sekiym/?lang=english), National Institute of Informatics
+- [KC Sivaramakrishnan](https://kcsrk.info/), Indian Institute of Technology Madras/Tarides
+- [Tachio  Terauchi](http://www.f.waseda.jp/terauchi/), Waseda University
+- [Nicolas Wu](https://www.imperial.ac.uk/people/n.wu), Imperial College of London
+- [Ningning Xie](https://xnning.github.io/), University of Toronto
+- [Jeremy Yallop](https://www.cl.cam.ac.uk/~jdy22/), University of Cambridge
+- [Yizhou Zhang](https://cs.uwaterloo.ca/~yizhou/), University of Waterloo
 
 ## Organizers
 
