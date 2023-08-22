@@ -21,6 +21,6 @@ See the other pages for a long description of the [purpose](/shonan-203-website/
 ## Contact emails
 
 - [Meeting organizers](mailto:jonathan.brachthaeuser@uni-tuebingen.de,cong@c.titech.ac.jp,jeremy.gibbons@cs.ox.ac.uk)
-- [NII Shonan administration](shonan@nii.ac.jp)
+- [NII Shonan administration](mailto:shonan@nii.ac.jp)
 - [Venue contact](mailto:shonan-meeting2@shonan-village.co.jp)
-- [All participants](shonan_meeting_203@nii.ac.jp)
+- [All participants](mailto:shonan_meeting_203@nii.ac.jp)
