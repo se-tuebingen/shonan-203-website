@@ -19,7 +19,6 @@ permalink: /participants/
 - [Dylan McDermott](https://dylanm.org/), Reykjavik University
 - [Cameron Moy](https://camoy.name/), Northeastern University
 - [Dominic Orchard](https://www.kent.ac.uk/computing/people/3074/orchard-dominic), University of Kent/University of Cambridge
-- [Andreas  Rossberg](https://people.mpi-sws.org/~rossberg)
 - [Amr Sabry](https://legacy.cs.indiana.edu/~sabry/), Indiana University
 - [Tom Schrijvers](https://people.cs.kuleuven.be/~tom.schrijvers/), University of Leuven
 - [Philipp Schuster](https://ps.informatik.uni-tuebingen.de/team/schuster/), University of Tübingen
