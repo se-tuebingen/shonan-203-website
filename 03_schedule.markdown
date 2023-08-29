@@ -22,31 +22,33 @@ We expect to be following Shonan's standard [template for a 5-day meeting](https
 
 Planning precisely what happens in each of the technical sessions will be one of the first activities on Monday.
 
-## Session 1: Opening
+## Session Details
+
+### Session 1: Opening
 - Shonan intro movie (10min)
 - self-introductions (60min)
 
-## Session 2: Tutorial
+### Session 2: Tutorial
 - tutorial (Jonathan & others, 60min)
 
-## Session 3: Tutorial
+### Session 3: Tutorial
 - tutorial (Jonathan & others, 90min)
 
-## Session 4: Planning & Puzzles
+### Session 4: Planning & Puzzles
 
-## Session 5: Implementor-Facing Aspects
+### Session 5: Implementor-Facing Aspects
 - modular search (Tom, 17min)
 - multiple prompts (Paul, 17min)
 - expressiveness (Kazuki, 10min)
 - one-shot (Yukiyoshi, 17min)
 - one-shot (Philipp, 17min)
 
-## Session 6: Implementor-Facing Aspects
+### Session 6: Implementor-Facing Aspects
 - lexical handlers (Yizhou, 17min)
 - deriving from CPS (Kenichi, 17min)
 - Pyro lessons (Eli, 17min)
 
-## Session 7: Current Status of Effect Handler Languages
+### Session 7: Current Status of Effect Handler Languages
 - Koka (Daan, 17min)
 - Effekt (Jonathan, 17min)
 - Links (Sam, 17min)
@@ -54,35 +56,35 @@ Planning precisely what happens in each of the technical sessions will be one of
 - Granule (Dominic, 17min)
 - Eff (Matija, 17min)
 
-## Session 8: Panel "Concurrency and Distribution"
+### Session 8: Panel "Concurrency and Distribution"
 
-## Session 9: Applications
+### Session 9: Applications
 - effect handlers for machine learning programming (Ningning, 40min)
 - machine learning, causal inference and probabilistic programming (Eli, 40min)
 
-## Session 10: Applications
+### Session 10: Applications
 - quantum programming (Amr, 25min)
 - probabilistic logic programming (Tom, 25min)
 
-## Session 11: Programmer-Facing Aspects
+### Session 11: Programmer-Facing Aspects
 - contracts (Cameron, 25min)
 - refinement types (Taro, 25min)
 - dependent types (William & Paulette, 25min)
 
-## Session 12: Programmer-Facing Aspects
+### Session 12: Programmer-Facing Aspects
 - grading (Dominic, 50min)
 
-## Session 13: Programmer-Facing Aspects
+### Session 13: Programmer-Facing Aspects
 - Curry-Howard for delimited control (Paul & Amr, 25min)
 - multi-stage (Yukiyoshi & Jeremy Y, 25min)
 - equational reasoning (Paul, 25min)
 - higher-order effects (Tom, 25min)
 
-## Session 14: Panel "Will Effect Handlers Replace Monads?"
+### Session 14: Panel "Will Effect Handlers Replace Monads?"
 
-## Session 15: Summary, Future, Discussions
+### Session 15: Summary, Future, Discussions
 
-## Session 16: Summary, Future, Discussions
+### Session 16: Summary, Future, Discussions
 
 ## Discussants
 
