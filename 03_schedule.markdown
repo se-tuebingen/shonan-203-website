@@ -6,21 +6,21 @@ permalink: /schedule/
 
 We expect to be following Shonan's standard [template for a 5-day meeting](https://shonan.nii.ac.jp/docs/daf3cfe4d550b6d98acf49955e07c423e93ffb1e.pdf). In a nutshell:
 
-|             | Sun 24th            | Mon 25th  | Tue 26th  | Wed 27th   | Thu 28th   | Fri 29th   |
-| ----------- | ------------------- | --------- | --------- | ---------- | ---------- | ---------- |
-| 07:30-09:00 |                     | breakfast | breakfast | breakfast  | breakfast  | breakfast  |
-| 09:00-10:30 |                     | session&nbsp;1 | session&nbsp;5 | session&nbsp;9  | session&nbsp;11 | session&nbsp;15 |
-| 10:30-11:00 |                     | break     | break     | break      | break      | break      |
-| 11:00-12:00 |                     | session&nbsp;2 | session&nbsp;6 | session&nbsp;10 | session&nbsp;12 | session&nbsp;16 |
-| 12:00-13:30 |                     | lunch     | lunch     | lunch      | lunch      | lunch      |
-| 13:30-15:30 | check-in <br> (15:00-)   | session&nbsp;3 | session&nbsp;7 | excursion | session&nbsp;13 | farewell  |
-| 15:30-16:00 | check-in            | break     | break     | excursion | break      |
-| 16:00-18:00 | check-in            | session&nbsp;4 | session&nbsp;8 | excursion | session&nbsp;14 |
-| 18:00-19:30 | reception           | dinner    | dinner    | banquet   | dinner     |
-| 19:30-21:00 | reception           | free      | free      | banquet   | free       |
-| 21:00-      | free                | free      | free      | free      | free       |          
+|             | Sun 24th               | Mon&nbsp;25th  | Tue&nbsp;26th  | Wed&nbsp;27th   | Thu&nbsp;28th   | Fri&nbsp;29th   |
+| ----------- | ---------------------- | -------------- | -------------- | --------------- | --------------- | --------------- |
+| 07:30-09:00 |                        | breakfast      | breakfast      | breakfast       | breakfast       | breakfast       |
+| 09:00-10:30 |                        | session&nbsp;1 | session&nbsp;5 | session&nbsp;9  | session&nbsp;11 | session&nbsp;15 |
+| 10:30-11:00 |                        | break          | break          | break           | break           | break           |
+| 11:00-12:00 |                        | session&nbsp;2 | session&nbsp;6 | session&nbsp;10 | session&nbsp;12 | session&nbsp;16 |
+| 12:00-13:30 |                        | lunch          | lunch          | lunch           | lunch           | lunch           |
+| 13:30-15:30 | check-in <br> (15:00-) | session&nbsp;3 | session&nbsp;7 | excursion       | session&nbsp;13 | farewell        |
+| 15:30-16:00 | check-in               | break          | break          | excursion       | break           |
+| 16:00-18:00 | check-in               | session&nbsp;4 | session&nbsp;8 | excursion       | session&nbsp;14 |
+| 18:00-19:30 | reception              | dinner         | dinner         | banquet         | dinner          |
+| 19:30-21:00 | reception              | free           | free           | banquet         | free            |
+| 21:00-      | free                   | free           | free           | free            | free            |          
 
-Details of the sessions are at the foot of this page.
+Details of the individual sessions are at the foot of this page.
 
 
 ## Discussants
@@ -75,6 +75,7 @@ We will organize these panels as [fishbowl discussions](https://en.wikipedia.org
 - Eff (Matija, 17min)
 
 ### Session 8: Panel "Concurrency and Distribution"
+- initial fish: Ningning, KC, Sam, Taro, Philipp
 
 ### Session 9: Applications (discussant: TBA)
 - effect handlers for machine learning programming (Ningning, 40min)
@@ -99,6 +100,7 @@ We will organize these panels as [fishbowl discussions](https://en.wikipedia.org
 - higher-order effects (Tom, 25min)
 
 ### Session 14: Panel "Will Effect Handlers Replace Monads?"
+- initial fish: Nick, Shin-ya, Eli, Yukiyoshi, Cameron
 
 ### Session 15: Summary, Future, Discussions
 
