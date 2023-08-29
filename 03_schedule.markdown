@@ -9,13 +9,13 @@ We expect to be following Shonan's standard [template for a 5-day meeting](https
 |             | Sun 24th            | Mon 25th  | Tue 26th  | Wed 27th   | Thu 28th   | Fri 29th   |
 | ----------- | ------------------- | --------- | --------- | ---------- | ---------- | ---------- |
 | 07:30-09:00 |                     | breakfast | breakfast | breakfast  | breakfast  | breakfast  |
-| 09:00-10:30 |                     | session&nbsp;1 | session 5 | session 9  | session 11 | session 15 |
+| 09:00-10:30 |                     | session&nbsp;1 | session 5 | session 9  | session 11 | session 15 |
 | 10:30-11:00 |                     | break     | break     | break      | break      | break      |
-| 11:00-12:00 |                     | session 2 | session 6 | session 10 | session 12 | session 16 |
+| 11:00-12:00 |                     | session<span>&#160;</span>2 | session 6 | session 10 | session 12 | session 16 |
 | 12:00-13:30 |                     | lunch     | lunch     | lunch      | lunch      | lunch      |
-| 13:30-15:30 | check-in <br> (15:00-)   | session 3 | session 7 | excursion | session 13 | farewell  |
+| 13:30-15:30 | check-in <br> (15:00-)   | session<span>&nbsp;</span>3 | session 7 | excursion | session 13 | farewell  |
 | 15:30-16:00 | check-in            | break     | break     | excursion | break      |
-| 16:00-18:00 | check-in            | session 4 | session 8 | excursion | session 14 |
+| 16:00-18:00 | check-in            | session<code>&nbsp;</code>4 | session 8 | excursion | session 14 |
 | 18:00-19:30 | reception           | dinner    | dinner    | banquet   | dinner     |
 | 19:30-21:00 | reception           | free      | free      | banquet   | free       |
 | 21:00-      | free                | free      | free      | free      | free       |          
