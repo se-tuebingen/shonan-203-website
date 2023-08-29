@@ -11,7 +11,7 @@ We expect to be following Shonan's standard [template for a 5-day meeting](https
 | 07:30-09:00 |                     | breakfast | breakfast | breakfast  | breakfast  | breakfast  |
 | 09:00-10:30 |                     | session&nbsp;1 | session 5 | session 9  | session 11 | session 15 |
 | 10:30-11:00 |                     | break     | break     | break      | break      | break      |
-| 11:00-12:00 |                     | session<span>&#160;</span>2 | session 6 | session 10 | session 12 | session 16 |
+| 11:00-12:00 |                     | session<span>&#160;</span>2 | session&nbsp;6 | session<span>&#160;</span>10 | session<span>&nbsp;</span>12 | session 16 |
 | 12:00-13:30 |                     | lunch     | lunch     | lunch      | lunch      | lunch      |
 | 13:30-15:30 | check-in <br> (15:00-)   | session<span>&nbsp;</span>3 | session 7 | excursion | session 13 | farewell  |
 | 15:30-16:00 | check-in            | break     | break     | excursion | break      |
