@@ -9,13 +9,13 @@ We expect to be following Shonan's standard [template for a 5-day meeting](https
 |             | Sun 24th            | Mon 25th  | Tue 26th  | Wed 27th   | Thu 28th   | Fri 29th   |
 | ----------- | ------------------- | --------- | --------- | ---------- | ---------- | ---------- |
 | 07:30-09:00 |                     | breakfast | breakfast | breakfast  | breakfast  | breakfast  |
-| 09:00-10:30 |                     | session&nbsp;1 | session 5 | session 9  | session 11 | session 15 |
+| 09:00-10:30 |                     | session&nbsp;1 | session&nbsp;5 | session&nbsp;9  | session&nbsp;11 | session&nbsp;15 |
 | 10:30-11:00 |                     | break     | break     | break      | break      | break      |
-| 11:00-12:00 |                     | session<span>&#160;</span>2 | session&nbsp;6 | session<span>&#160;</span>10 | session<span>&nbsp;</span>12 | session 16 |
+| 11:00-12:00 |                     | session&nbsp;2 | session&nbsp;6 | session&nbsp;10 | session&nbsp;12 | session&nbsp;16 |
 | 12:00-13:30 |                     | lunch     | lunch     | lunch      | lunch      | lunch      |
-| 13:30-15:30 | check-in <br> (15:00-)   | session<span>&nbsp;</span>3 | session 7 | excursion | session 13 | farewell  |
+| 13:30-15:30 | check-in <br> (15:00-)   | session&nbsp;3 | session&nbsp;7 | excursion | session&nbsp;13 | farewell  |
 | 15:30-16:00 | check-in            | break     | break     | excursion | break      |
-| 16:00-18:00 | check-in            | session<code>&nbsp;</code>4 | session 8 | excursion | session 14 |
+| 16:00-18:00 | check-in            | session&nbsp;4 | session&nbsp;8 | excursion | session&nbsp;14 |
 | 18:00-19:30 | reception           | dinner    | dinner    | banquet   | dinner     |
 | 19:30-21:00 | reception           | free      | free      | banquet   | free       |
 | 21:00-      | free                | free      | free      | free      | free       |          
@@ -42,31 +42,31 @@ We will organize these panels as [fishbowl discussions](https://en.wikipedia.org
 
 ## Session details
 
-### Session 1: Opening
+### Session 1: Opening 
 - Shonan intro movie (10min)
 - self-introductions (60min)
 
 ### Session 2: Tutorial
 - tutorial (Jonathan & others, 60min)
 
-### Session 3: Tutorial
+### Session 3: Tutorial (continued)
 - tutorial (Jonathan & others, 90min)
 
 ### Session 4: Planning & Puzzles
 
-### Session 5: Implementor-Facing Aspects
+### Session 5: Implementor-Facing Aspects (discussant: TBA)
 - modular search (Tom, 17min)
 - multiple prompts (Paul, 17min)
 - expressiveness (Kazuki, 10min)
 - one-shot (Yukiyoshi, 17min)
 - one-shot (Philipp, 17min)
 
-### Session 6: Implementor-Facing Aspects
+### Session 6: Implementor-Facing Aspects (discussant: TBA)
 - lexical handlers (Yizhou, 17min)
 - deriving from CPS (Kenichi, 17min)
 - Pyro lessons (Eli, 17min)
 
-### Session 7: Current Status of Effect Handler Languages
+### Session 7: Current Status of Effect Handler Languages (discussant: TBA)
 - Koka (Daan, 17min)
 - Effekt (Jonathan, 17min)
 - Links (Sam, 17min)
@@ -76,23 +76,23 @@ We will organize these panels as [fishbowl discussions](https://en.wikipedia.org
 
 ### Session 8: Panel "Concurrency and Distribution"
 
-### Session 9: Applications
+### Session 9: Applications (discussant: TBA)
 - effect handlers for machine learning programming (Ningning, 40min)
 - machine learning, causal inference and probabilistic programming (Eli, 40min)
 
-### Session 10: Applications
+### Session 10: Applications (discussant: TBA)
 - quantum programming (Amr, 25min)
 - probabilistic logic programming (Tom, 25min)
 
-### Session 11: Programmer-Facing Aspects
+### Session 11: Programmer-Facing Aspects (discussant: TBA)
 - contracts (Cameron, 25min)
 - refinement types (Taro, 25min)
 - dependent types (William & Paulette, 25min)
 
-### Session 12: Programmer-Facing Aspects
+### Session 12: Programmer-Facing Aspects (discussant: TBA)
 - grading (Dominic, 50min)
 
-### Session 13: Programmer-Facing Aspects
+### Session 13: Programmer-Facing Aspects (discussant: TBA)
 - Curry-Howard for delimited control (Paul & Amr, 25min)
 - multi-stage (Yukiyoshi & Jeremy Y, 25min)
 - equational reasoning (Paul, 25min)
@@ -102,4 +102,4 @@ We will organize these panels as [fishbowl discussions](https://en.wikipedia.org
 
 ### Session 15: Summary, Future, Discussions
 
-### Session 16: Summary, Future, Discussions
+### Session 16: Summary, Future, Discussions (continued)
