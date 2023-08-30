@@ -252,14 +252,16 @@ We expect to be following Shonan's standard [template for a 5-day meeting](https
               {% if event.slot == time_slot %}
                 {% if event.short_title %}
                   <a href="#{{ event.short_title }}">{{ event.short_title }}
-                    {% if event.description %}<span class="hover">
+                    <span class="hover">
                       <h5>{{event.title}}</h5>
+                      {% if event.description %}
                       <ul>
                       {% for item in event.description %}
                       <li>{{ item }}</li>
                       {% endfor %}
                       </ul>
-                      </span>{% endif %}
+                      {% endif %}
+                      </span>
                   </a>
                 {% else %}
                   {{ event.title }}
