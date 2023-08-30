@@ -199,6 +199,34 @@ We expect to be following Shonan's standard [template for a 5-day meeting](https
   .schedule td, .schedule th {
     vertical-align: top;
   }
+  .schedule a {
+    position: relative;
+    display: inline-block;
+  }
+
+  .hover {
+    font-size: 10pt;
+  }
+
+  .schedule a .hover {
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    min-width: 300px;
+
+    background-color: black;
+    color: #fff;
+    padding: 1em;
+    border-radius: 6px;
+
+    position: absolute;
+    z-index: 1;
+  }
+
+  .schedule a:hover .hover {
+    visibility: visible;
+    opacity: 1;
+  }
 </style>
 
 
@@ -223,7 +251,16 @@ We expect to be following Shonan's standard [template for a 5-day meeting](https
             {% for event in day[1] %}
               {% if event.slot == time_slot %}
                 {% if event.short_title %}
-                  <a href="#{{ event.short_title }}">{{ event.short_title }}</a>
+                  <a href="#{{ event.short_title }}">{{ event.short_title }}
+                    {% if event.description %}<span class="hover">
+                      <h5>{{event.title}}</h5>
+                      <ul>
+                      {% for item in event.description %}
+                      <li>{{ item }}</li>
+                      {% endfor %}
+                      </ul>
+                      </span>{% endif %}
+                  </a>
                 {% else %}
                   {{ event.title }}
                 {% endif %}
