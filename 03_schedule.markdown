@@ -281,7 +281,6 @@ Details of the individual sessions are at the foot of this page.
 ## Discussants
 
 Each technical session will have one person nominated as a *discussant*. The responsibility of this role is to end the session by responding to the presentations in that session. This might be to provide a personal comment on the presentation; it might be to explain some of the context; it might be to raise some questions, or even (constructively!) criticize the presentation or point at shortcomings.
-advance.
 
 The goal of the discussant's time is to spark discussion. This can be discussion between them and the presenter, but it's even better if they can manage to draw the audience into the discussion. The point is to help everyone think about and reflect upon the presentations that have just taken place. It also serves to enhance the workshop feel, with more people engaging in discussion and discussing the impact of the work being presented as well as potential unsolved problems.
 
