@@ -29,17 +29,18 @@ schedule:
     - slot: 10:30-11:00
       title: "break"
     - slot: 11:00-12:00
-      title: "Session 2: Tutorial"
+      title: "Session 2: Introduction to Effect Handlers"
       short_title: "Session&nbsp;2"
       description:
-      - tutorial (Jonathan & others, 60min)
+      - tutorial (Sam, 60min)
     - slot: 12:00-13:30
       title: "lunch"
     - slot: 13:30-15:30
-      title: "Session 3: Tutorial (continued)"
+      title: "Session 3: Tutorial"
       short_title: "Session&nbsp;3"
       description:
-        - tutorial (Jonathan & others, 90min)
+        - Effect handler languages by example (Jonathan & others, 60min)
+        - Implementing effects and handlers (Jonathan & others, 60min)
     - slot: 15:30-16:00
       title: "break"
     - slot: 16:00-18:00
