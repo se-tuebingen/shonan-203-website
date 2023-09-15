@@ -108,8 +108,9 @@ schedule:
       short_title: "Session&nbsp;9"
       description:
       - "(discussant: TBA)"
-      - effect handlers for machine learning programming (Ningning, 40min)
-      - machine learning, causal inference and probabilistic programming (Eli, 40min)
+      - concurrency in OCaml 5 (KC, 25min)
+      - effect handlers for machine learning programming (Ningning, 25min)
+      - machine learning, causal inference and probabilistic programming (Eli, 25min)
     - slot: 10:30-11:00
       title: "break"
     - slot: 11:00-12:00
