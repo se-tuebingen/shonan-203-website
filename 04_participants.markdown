@@ -23,9 +23,7 @@ permalink: /participants/
 - [Tom Schrijvers](https://people.cs.kuleuven.be/~tom.schrijvers/), KU Leuven
 - [Philipp Schuster](https://se.informatik.uni-tuebingen.de/team/schuster/), University of Tübingen
 - [Taro Sekiyama](https://researchmap.jp/t-sekiym/?lang=english), National Institute of Informatics
-- [KC Sivaramakrishnan](https://kcsrk.info/), Indian Institute of Technology Madras/Tarides
 - [Tachio  Terauchi](http://www.f.waseda.jp/terauchi/), Waseda University
-- [Nicolas Wu](https://www.imperial.ac.uk/people/n.wu), Imperial College of London
 - [Ningning Xie](https://xnning.github.io/), University of Toronto
 - [Jeremy Yallop](https://www.cl.cam.ac.uk/~jdy22/), University of Cambridge
 - [Yizhou Zhang](https://cs.uwaterloo.ca/~yizhou/), University of Waterloo

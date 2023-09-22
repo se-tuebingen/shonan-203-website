@@ -7,7 +7,6 @@
 - [Eli Bingham](https://mltrain.cc/speakers/eli-bingham/), Basis & Broad Institute
 - [Jeremy Yallop](https://www.cl.cam.ac.uk/~jdy22/), University of Cambridge
 - [Ningning Xie](https://xnning.github.io/), University of Toronto
-- [Nicolas Wu](https://www.imperial.ac.uk/people/n.wu), Imperial College of London
 - [William Bowman](https://www.williamjbowman.com/), University of British Columbia
 - [Philipp Schuster](https://ps.informatik.uni-tuebingen.de/team/schuster/), University of Tübingen
 - [Yizhou Zhang](https://cs.uwaterloo.ca/~yizhou/), University of Waterloo
@@ -22,5 +21,4 @@
 - [Dylan McDermott](https://dylanm.org/), Reykjavik University
 - [Paul Downen](https://www.pauldownen.com/), University of Massachusetts
 - [Kazuki Ikemori](https://kadu-v.github.io/kikemori/), Tokyo Institute of Technology
-- [KC Sivaramakrishnan](https://kcsrk.info/), Indian Institute of Technology Madras/Tarides
 - [Paulette Koronkevich](https://koronkevi.ch/), University of British Columbia
