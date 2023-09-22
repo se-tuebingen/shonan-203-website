@@ -82,19 +82,18 @@ schedule:
       short_title: "Session&nbsp;7"
       description:
       - "(discussant: TBA)"
-      - Koka (Daan, 17min)
-      - Effekt (Jonathan, 17min)
-      - Links (Sam, 17min)
-      - OCaml (KC, 17min)
-      - Granule (Dominic, 17min)
-      - Eff (Matija, 17min)
+      - Koka (Daan, 20min)
+      - Effekt (Jonathan, 20min)
+      - Links (Sam, 20min)
+      - Granule (Dominic, 20min)
+      - Eff (Matija, 20min)
     - slot: 15:30-16:00
       title: "break"
     - slot: 16:00-18:00
       title: "Session 8: Panel \"Concurrency and Distribution\""
       short_title: "Session&nbsp;8"
       description:
-      - "initial fish: Ningning, KC, Sam, Taro, Philipp"
+      - "initial fish: Ningning, Sam, Taro, Philipp"
     - slot: 18:00-19:30
       title: "dinner"
     - slot: 19:30-21:00
@@ -109,9 +108,8 @@ schedule:
       short_title: "Session&nbsp;9"
       description:
       - "(discussant: TBA)"
-      - concurrency in OCaml 5 (KC, 25min)
-      - effect handlers for machine learning programming (Ningning, 25min)
-      - machine learning, causal inference and probabilistic programming (Eli, 25min)
+      - effect handlers for machine learning programming (Ningning, 30min)
+      - machine learning, causal inference and probabilistic programming (Eli, 30min)
     - slot: 10:30-11:00
       title: "break"
     - slot: 11:00-12:00
@@ -171,7 +169,7 @@ schedule:
       title: "Session 14: Panel \"Will Effect Handlers Replace Monads?\""
       short_title: "Session&nbsp;14"
       description:
-      - "initial fish: Nick, Shin-ya, Eli, Yukiyoshi, Cameron"
+      - "initial fish: Shin-ya, Eli, Yukiyoshi, Cameron"
     - slot: 18:00-19:30
       title: "dinner"
     - slot: 19:30-21:00
@@ -293,7 +291,7 @@ Please contact us if you would like to volunteer as discussant for a particular 
 
 There are *panel discussions* at the end of Tuesday and Thursday. We have allocated an hour for each of these, but in a two-hour session at the end of the day. The idea here is that if the discussion has run its course after an hour, we have time to relax and chat before dinner; if the discussion is still going, yet you've have enough for the day, you can leave with honour after an hour; but we hopefully do not need to impose a hard stop and stifle a lively discussion.
 
-We will organize these panels as [fishbowl discussions](https://en.wikipedia.org/wiki/Fishbowl_(conversation)). The panel will be initialized with five "fish", but six chairs; at any point, anyone else can join the fishbowl to speak, and one of the current fish must volunteer to leave. The point is to allow everyone to have a say. The initial fish are: Ningning, KC, Sam, Taro, Philipp on Tuesday; Nick, Shin-ya, Eli, Yukiyoshi, Cameron on Thursday.
+We will organize these panels as [fishbowl discussions](https://en.wikipedia.org/wiki/Fishbowl_(conversation)). The panel will be initialized with five "fish", but six chairs; at any point, anyone else can join the fishbowl to speak, and one of the current fish must volunteer to leave. The point is to allow everyone to have a say. The initial fish are: Ningning, Sam, Taro, Philipp on Tuesday; Shin-ya, Eli, Yukiyoshi, Cameron on Thursday.
 
 
 ## Detailed Session Schedule
