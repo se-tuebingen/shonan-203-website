@@ -6,4 +6,4 @@ permalink: /photos/
 
 Please send us your photos taken during the meeting!
 
-* ![photo board]([photos/mugshots-thumb.jpg](photos/mugshots.jpg) "Polaroid photos of participants")
+* [photo board]([/shonan-203-website/photos/mugshots-thumb.jpg](/shonan-203-website/photos/mugshots.jpg) "Polaroid photos of participants")
