@@ -9,6 +9,7 @@ We encourage you to read the following papers and documentations before the meet
 ## Introduction to Effect Handlers
 - [An Introduction to Algebraic Effects and Handlers](http://dx.doi.org/10.1016/j.entcs.2015.12.003) by Matija Pretnar
 - [What is Algebraic about Algebraic Effects and Handlers?](https://arxiv.org/pdf/1807.05923.pdf) by Andrej Bauer
+- [Foundations for Programming and Implementing Effect Handlers](https://www.dhil.net/research/papers/thesis.pdf) by Daniel Hillerström
 - [OCaml 5 Effect Handlers Manual](https://v2.ocaml.org/manual/effects.html)
 
 ## Type Systems and Operational Semantics of Mainstream Languages
