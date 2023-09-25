@@ -180,12 +180,12 @@ schedule:
     - slot: 07:30-09:00
       title: "breakfast"
     - slot: 09:00-10:30
-      title: "Session 15: Summary, Future, Discussions"
+      title: "Session 15: Puzzles, Summary, Future, Discussions"
       short_title: "Session&nbsp;15"
     - slot: 10:30-11:00
       title: "break"
     - slot: 11:00-12:00
-      title: "Session 16: Summary, Future, Discussions (continued)"
+      title: "Session 16: Puzzles, Summary, Future, Discussions (continued)"
       short_title: "Session&nbsp;16"
     - slot: 12:00-13:30
       title: "lunch"
@@ -292,6 +292,19 @@ Please contact us if you would like to volunteer as discussant for a particular 
 There are *panel discussions* at the end of Tuesday and Thursday. We have allocated an hour for each of these, but in a two-hour session at the end of the day. The idea here is that if the discussion has run its course after an hour, we have time to relax and chat before dinner; if the discussion is still going, yet you've have enough for the day, you can leave with honour after an hour; but we hopefully do not need to impose a hard stop and stifle a lively discussion.
 
 We will organize these panels as [fishbowl discussions](https://en.wikipedia.org/wiki/Fishbowl_(conversation)). The panel will be initialized with four "fish", but five chairs; at any point, anyone else can join the fishbowl to speak, and one of the current fish must volunteer to leave. The point is to allow everyone to have a say. The initial fish are: Ningning, Sam, Taro, Philipp on Tuesday; Shin-ya, Eli, Yukiyoshi, Cameron on Thursday.
+
+
+## Puzzles and problems
+
+Participants suggested the following puzzles and problems that we might discuss, during breaks or after dinner. We can revisit these on Friday in case there are outcomes to report.
+
+* Interesting applications that require both deep and shallow handlers
+* Solution to the "Reflection without Remorse" problem without reifying computation as data (maybe relate to shallow handlers?)
+* Handler-based reinforcement learning: [On Reinforcement Learning, Effect Handlers, and the State Monad](https://arxiv.org/abs/2203.15426), [Smart Choices and the Selection Monad](https://arxiv.org/abs/2007.08926)
+* Algebraic theories for practical handlers, eg for concurrency
+* Language Server Protocol
+* Interactive tutorial for effect handlers
+* A new Benchmark Repo Tsar
 
 
 ## Detailed Session Schedule
