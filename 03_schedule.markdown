@@ -59,7 +59,7 @@ schedule:
       title: "Session 5: Implementor-Facing Aspects"
       short_title: "Session&nbsp;5"
       description:
-      - "(discussant: TBA)"
+      - "(discussant: Paulette)"
       - modular search (Tom, 17min)
       - multiple prompts (Paul, 17min)
       - expressiveness (Kazuki, 10min)
@@ -71,7 +71,7 @@ schedule:
       title: "Session 6: Implementor-Facing Aspects"
       short_title: "Session&nbsp;6"
       description:
-      - "(discussant: TBA)"
+      - "(discussant: Taro)"
       - lexical handlers (Yizhou, 17min)
       - deriving from CPS (Kenichi, 17min)
       - Pyro lessons (Eli, 17min)
@@ -81,7 +81,7 @@ schedule:
       title: "Session 7: Current Status of Effect Handler Languages"
       short_title: "Session&nbsp;7"
       description:
-      - "(discussant: TBA)"
+      - "(discussant: Jeremy Y)"
       - Koka (Daan, 20min)
       - Effekt (Jonathan, 20min)
       - Links (Sam, 20min)
@@ -107,7 +107,7 @@ schedule:
       title: "Session 9: Applications"
       short_title: "Session&nbsp;9"
       description:
-      - "(discussant: TBA)"
+      - "(discussant: Amr)"
       - effect handlers for machine learning programming (Ningning, 30min)
       - machine learning, causal inference and probabilistic programming (Eli, 30min)
     - slot: 10:30-11:00
@@ -116,7 +116,7 @@ schedule:
       title: "Session 10: Applications"
       short_title: "Session&nbsp;10"
       description:
-      - "(discussant: TBA)"
+      - "(discussant: Kenichi)"
       - quantum programming (Amr, 25min)
       - probabilistic logic programming (Tom, 25min)
     - slot: 12:00-13:30
@@ -140,7 +140,7 @@ schedule:
       title: "Session 11: Programmer-Facing Aspects"
       short_title: "Session&nbsp;11"
       description:
-      - "(discussant: TBA)"
+      - "(discussant: Dylan)"
       - contracts (Cameron, 25min)
       - refinement types (Taro, 25min)
       - dependent types (William & Paulette, 25min)
@@ -150,7 +150,7 @@ schedule:
       title: "Session 12: Programmer-Facing Aspects"
       short_title: "Session&nbsp;12"
       description:
-      - "(discussant: TBA)"
+      - "(discussant: Shin-ya)"
       - grading (Dominic, 50min)
     - slot: 12:00-13:30
       title: "lunch"
@@ -158,7 +158,7 @@ schedule:
       title: "Session 13: Programmer-Facing Aspects"
       short_title: "Session&nbsp;13"
       description:
-      - "(discussant: TBA)"
+      - "(discussant: Tachio)"
       - Curry-Howard for delimited control (Paul & Amr, 25min)
       - multi-stage (Yukiyoshi & Jeremy Y, 25min)
       - equational reasoning (Paul, 25min)
