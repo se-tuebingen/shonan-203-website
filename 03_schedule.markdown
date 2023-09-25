@@ -76,7 +76,7 @@ schedule:
       - deriving from CPS (Kenichi, 17min)
       - Pyro lessons (Eli, 17min)
     - slot: 12:00-13:30
-      title: "lunch"
+      title: "lunch, group photo"
     - slot: 13:30-15:30
       title: "Session 7: Current Status of Effect Handler Languages"
       short_title: "Session&nbsp;7"
