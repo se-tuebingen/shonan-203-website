@@ -64,7 +64,6 @@ schedule:
       - multiple prompts (Paul, 17min)
       - expressiveness (Kazuki, 10min)
       - one-shot (Yukiyoshi, 17min)
-      - one-shot (Philipp, 17min)
     - slot: 10:30-11:00
       title: "break"
     - slot: 11:00-12:00
@@ -72,9 +71,9 @@ schedule:
       short_title: "Session&nbsp;6"
       description:
       - "(discussant: Taro)"
+      - one-shot (Philipp, 17min)
       - lexical handlers (Yizhou, 17min)
       - deriving from CPS (Kenichi, 17min)
-      - Pyro lessons (Eli, 17min)
     - slot: 12:00-13:30
       title: "lunch, group photo"
     - slot: 13:30-15:30
@@ -151,7 +150,8 @@ schedule:
       short_title: "Session&nbsp;12"
       description:
       - "(discussant: Shin-ya)"
-      - grading (Dominic, 50min)
+      - Pyro lessons (Eli, 15min)
+      - grading (Dominic, 40min)
     - slot: 12:00-13:30
       title: "lunch"
     - slot: 13:30-15:30
