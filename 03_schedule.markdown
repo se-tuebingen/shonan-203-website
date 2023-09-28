@@ -305,6 +305,7 @@ Participants suggested the following puzzles and problems that we might discuss,
 * Language Server Protocol
 * Interactive tutorial for effect handlers
 * A new Benchmark Repo Tsar
+* Using only continuations (that is callcc, but no assignments etc), find a term `e` and a context C such that: `C [ (\x -> (x,x)) e ]` and `C [ (\x y -> (x,y)) e e ]` evaluate to different values (Amr).
 
 
 ## Detailed Session Schedule
