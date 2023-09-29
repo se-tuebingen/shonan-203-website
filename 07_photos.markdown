@@ -12,3 +12,4 @@ Please send us your photos taken during the meeting!
 * <a href="/shonan-203-website/photos/conv0004.jpg"><img src="/shonan-203-website/photos/conv0004.jpg" width="256" alt="Excursion: tea ceremony"/></a>
 * <a href="/shonan-203-website/photos/conv0005.jpg"><img src="/shonan-203-website/photos/conv0005.jpg" width="256" alt="Excursion: Kamakura"/></a>
 * <a href="/shonan-203-website/photos/conv0007.jpg"><img src="/shonan-203-website/photos/conv0007.jpg" width="256" alt="Excursion: Hachimangu"/></a>
+* <a href="/shonan-203-website/photos/yosegaki.jpg"><img src="/shonan-203-website/photos/yosegaki.jpg" width="256" alt="Messages from participants (yosegaki)"/></a>
