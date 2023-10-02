@@ -81,7 +81,6 @@ schedule:
       short_title: "Session&nbsp;7"
       description:
       - "(discussant: Jeremy Y)"
-      - Koka (Daan, 20min)
       - Effekt (Jonathan, 20min)
       - Links (Sam, 20min)
       - Granule (Dominic, 20min)
@@ -142,7 +141,6 @@ schedule:
       - "(discussant: Dylan)"
       - contracts (Cameron, 25min)
       - refinement types (Taro, 25min)
-      - dependent types (William & Paulette, 25min)
     - slot: 10:30-11:00
       title: "break"
     - slot: 11:00-12:00
@@ -161,14 +159,14 @@ schedule:
       - "(discussant: Tachio)"
       - Curry-Howard for delimited control (Paul & Amr, 25min)
       - multi-stage (Yukiyoshi & Jeremy Y, 25min)
-      - equational reasoning (Paul, 25min)
       - higher-order effects (Tom, 25min)
     - slot: 15:30-16:00
       title: "break"
     - slot: 16:00-18:00
-      title: "Session 14: Panel \"Will Effect Handlers Replace Monads?\""
+      title: "Session 14: Talk & Panel \"Will Effect Handlers Replace Monads?\""
       short_title: "Session&nbsp;14"
       description:
+      - dependent types (William & Paulette, 25min)
       - "initial fish: Shin-ya, Eli, Yukiyoshi, Cameron"
     - slot: 18:00-19:30
       title: "dinner"
@@ -180,13 +178,15 @@ schedule:
     - slot: 07:30-09:00
       title: "breakfast"
     - slot: 09:00-10:30
-      title: "Session 15: Puzzles, Summary, Future, Discussions"
+      title: "Session 15: Summary, Book, Next Meeting"
       short_title: "Session&nbsp;15"
     - slot: 10:30-11:00
       title: "break"
     - slot: 11:00-12:00
-      title: "Session 16: Puzzles, Summary, Future, Discussions (continued)"
+      title: "Session 16: Talk"
       short_title: "Session&nbsp;16"
+      description:
+      - equational reasoning (Paul, 50min)
     - slot: 12:00-13:30
       title: "lunch"
     - slot: 13:30-15:30
