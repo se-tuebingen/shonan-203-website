@@ -16,6 +16,10 @@ ul.mugshots li, ul.polaroids li, ul.photos li {
   margin-left: 0;
   padding-left: 0;
 }
+li.vertical {
+  display: inline-block;
+  max-width: 49%;
+}
 ul.mugshots li {
   display: inline-block;
   max-width: 24%;
@@ -32,11 +36,11 @@ ul.mugshots li {
 <li><a href="/shonan-203-website/photos/conv0005.jpg"><img src="/shonan-203-website/photos/thumbs/conv0005.jpg" alt="Excursion: Kamakura"/></a></li>
 <li><a href="/shonan-203-website/photos/conv0007.jpg"><img src="/shonan-203-website/photos/thumbs/conv0007.jpg" alt="Excursion: Hachimangu"/></a></li>
 <li><a href="/shonan-203-website/photos/conv0008.jpg"><img src="/shonan-203-website/photos/thumbs/conv0008.jpg" alt="Excursion: Visiting a temple"/></a></li>
-<li><a href="/shonan-203-website/photos/conv0009.jpg"><img src="/shonan-203-website/photos/thumbs/conv0009.jpg" alt="Excursion: Visiting a temple"/></a></li>
-<li><a href="/shonan-203-website/photos/conv0010.jpg"><img src="/shonan-203-website/photos/thumbs/conv0010.jpg" alt="Excursion: Visiting a temple"/></a></li>
-<li><a href="/shonan-203-website/photos/conv0011.jpg"><img src="/shonan-203-website/photos/thumbs/conv0011.jpg" alt="Excursion: Visiting a temple"/></a></li>
-<li><a href="/shonan-203-website/photos/conv0012.jpg"><img src="/shonan-203-website/photos/thumbs/conv0012.jpg" alt="Excursion: a shrine"/></a></li>
-<li><a href="/shonan-203-website/photos/conv0013.jpg"><img src="/shonan-203-website/photos/thumbs/conv0013.jpg" alt="Random sighting of a lambda"/></a></li>
+<li class="vertical"><a href="/shonan-203-website/photos/conv0009.jpg"><img src="/shonan-203-website/photos/thumbs/conv0009.jpg" alt="Excursion: Visiting a temple"/></a></li>
+<li class="vertical"><a href="/shonan-203-website/photos/conv0010.jpg"><img src="/shonan-203-website/photos/thumbs/conv0010.jpg" alt="Excursion: Visiting a temple"/></a></li>
+<li class="vertical"><a href="/shonan-203-website/photos/conv0011.jpg"><img src="/shonan-203-website/photos/thumbs/conv0011.jpg" alt="Excursion: Visiting a temple"/></a></li>
+<li class="vertical"><a href="/shonan-203-website/photos/conv0012.jpg"><img src="/shonan-203-website/photos/thumbs/conv0012.jpg" alt="Excursion: a shrine"/></a></li>
+<li class="vertical"><a href="/shonan-203-website/photos/conv0013.jpg"><img src="/shonan-203-website/photos/thumbs/conv0013.jpg" alt="Random sighting of a lambda"/></a></li>
 <li><a href="/shonan-203-website/photos/conv0014.jpg"><img src="/shonan-203-website/photos/thumbs/conv0014.jpg" alt="Youyou and Jonathan"/></a></li>
 
 <li><a href="/shonan-203-website/photos/yosegaki.jpg"><img src="/shonan-203-website/photos/thumbs/yosegaki.jpg" alt="Messages from participants (yosegaki)"/></a></li>
