@@ -18,6 +18,8 @@ layout: home
 
 See the other pages for a long description of the [purpose](/shonan-203-website/purpose/) of the meeting, [venue and travel](/shonan-203-website/attending/) information, the [schedule](/shonan-203-website/schedule/) for the week, a list of [participants](/shonan-203-website/participants/), and (in due course) some [photos](/shonan-203-website/photos/).
 
+The [final report](/shonan-203-website/report.pdf) is now available.
+
 ## Contact emails
 
 - [Meeting organizers](mailto:jonathan.brachthaeuser@uni-tuebingen.de,cong@c.titech.ac.jp,jeremy.gibbons@cs.ox.ac.uk)
